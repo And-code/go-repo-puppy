@@ -17,3 +17,7 @@ func BigBark() string {
 func BigBarks() string {
 	return go_repo_dog.WhenGrownUp(Barks())
 }
+
+func V110Func() string {
+	return go_repo_dog.From11()
+}
